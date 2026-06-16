@@ -1,0 +1,3 @@
+fruits={"apple","pineapple","custardapple"}
+fruits_dict={fruit:index for index,fruit in enumerate(fruits)}
+print(fruits_dict)
